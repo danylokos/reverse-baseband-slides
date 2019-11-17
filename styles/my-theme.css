@@ -1,0 +1,21 @@
+/* @theme my-theme */
+
+@import 'default';
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+section {
+  background: #f6d365;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  color: #3a1f5d;
+}
+
+h2 {
+  color: #c83660;
+}
+
+h3 {
+  color: #e15249;
+}
